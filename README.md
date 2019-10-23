@@ -1,2 +1,3 @@
 # Buscador_de_gifs
-Projeto com intuito de aumentar o aprendizado em flutter
+Projeto do curso Criação de Apps Android e iOS com Flutter - Crie 16 Apps, ministrado pelo professor Daniel Ciolfi.
+
